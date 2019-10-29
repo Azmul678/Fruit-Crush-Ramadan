@@ -1,7 +1,7 @@
 {
-	"name": "Fruit Crush",
-	"short_name": "Fruit Crush",
-	"description": "1",
+	"name": "Camera input",
+	"short_name": "Camera input",
+	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
